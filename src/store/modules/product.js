@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-var firebaseUrl = "https://productmanager-vue.firebaseio.com/";
+var firebaseUrl = "firebaseUrl";
 const state = {
   products: [],
   getProduct: {}
